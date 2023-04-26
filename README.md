@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DavidKFisk
+www.davidkfisk.com
 
-- www.davidkfisk.com
--
-- 
+
+
 
 <!---
 DavidKFisk/DavidKFisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
